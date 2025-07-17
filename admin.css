@@ -1,0 +1,37 @@
+a{
+    position: fixed;
+    top: 20px;
+    right: 20px;
+}
+
+body{
+    background-color: rgb(232, 235, 232);
+    background-image: url('https://c8.alamy.com/comp/ED9RY3/packs-of-dollars-background-lots-of-cash-money-3d-ED9RY3.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+table {
+    width: 100%;
+    border-radius: 8px;
+    overflow: hidden;
+    background-color: azure;
+}
+
+th{
+    border: 1px solid #070707;
+    padding: 12px;
+    background-color: #8ff394;
+    color: white;
+}
+
+td{
+    border: 0.5px solid #111111;
+}
+
+h2{
+    font-size: 28px;
+    color: #c9c1c1;
+    text-align: center;
+}
